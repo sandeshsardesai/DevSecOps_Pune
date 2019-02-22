@@ -1,5 +1,6 @@
 @reallyslow
 Feature: Check for cross site scripting (XSS) vulnerability using arachni against gruyere
+
 Background:
   Given "arachni" is installed
   And the following profile:
